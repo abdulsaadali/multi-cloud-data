@@ -1,0 +1,12 @@
+Introduction to Cloud Computing
+Cloud computing is a modern technology that allows users to access and store data, applications, and services over the internet instead of using a local computer or server. It provides a flexible, scalable, and cost-effective way to use computing resources without the need to own and maintain physical infrastructure.
+
+With cloud computing, users can access files, run software, host websites, store large amounts of data, and even use artificial intelligence tools — all through the internet. These services are provided by cloud service providers like Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
+
+Cloud computing is based on a simple idea: you only use what you need, when you need it — similar to how we use electricity or water. It supports different models, such as:
+
+IaaS (Infrastructure as a Service): renting servers and storage
+
+PaaS (Platform as a Service): building and deploying apps without worrying about the hardware
+
+SaaS (Software as a Service): using applications like Gmail, Zoom, or Office 365 over the internet

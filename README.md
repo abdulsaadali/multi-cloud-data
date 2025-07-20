@@ -8,7 +8,7 @@ Welcome to my cloud internship project submissions for Codtech. This repository 
 
 | Task | Description                                                       | Link    |
 |------|-------------------------------------------------------------------|---------|
-| 1️⃣   | Create and configure AWS S3 bucket with public access            | [Task 1](https://raw.githubusercontent.com/abdulsaadali/multi-cloud-data/refs/heads/main/simple.txt) |
+| 1️⃣   | Create and configure AWS S3 bucket with public access            | [Task 1](https://github.com/abdulsaadali/multi-cloud-data/blob/main/simple.txt) |
 
 
 ---
